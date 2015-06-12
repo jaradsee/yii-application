@@ -19,3 +19,8 @@ $route2 = Yii::$app->urlManager->createUrl(['test/test2','name'=>'jarad','lname'
 \yii\helpers\Html::a('ลิงค์แบบที่ 3',['test/test1','a'=>'1']);
 
 ?>
+</div>
+<?php
+
+//Yii::$app->db->open();
+?>
