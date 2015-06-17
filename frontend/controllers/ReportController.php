@@ -127,6 +127,7 @@ where l.bdate between '2014-4-1' and '2015-3-31'
                    
         ]);
     }
-     
-   
+    public function  actionReport5(){
+               return $this->render('report5'); 
+    }
 }

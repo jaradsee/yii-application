@@ -50,4 +50,3 @@ echo GridView::widget([
         ]);
         ?>
 
-        
